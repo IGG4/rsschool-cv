@@ -1,2 +1,3 @@
 # rsschool-cv
-You can view my CV [here](https://github.com/IGG4/rsschool-cv/blob/gh-pages/cv.md).
+You can view my CV [here](https://IGG4.github.io/rsschool-cv/cv).
+
