@@ -1,4 +1,5 @@
-# Irina Grigoryan    ![My Profile Picture](images/ProfilePicture].jpg)  
+# Irina Grigoryan    
+![My Profile Picture](images/ProfilePicture.png)  
 
 
 ## Contact Information
