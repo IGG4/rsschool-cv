@@ -1,4 +1,5 @@
-# Irina Grigoryan
+# Irina Grigoryan    ![My Profile Picture](images/ProfilePicture].jpg)  
+
 
 ## Contact Information
 - Address: Republic of Armenia 
@@ -23,26 +24,44 @@ I am a motivated learner transitioning into the programming field, with skills i
 
 ## Code Examples
 ```javascript
-function multiply(a, b){
-  return a * b
+
+// Function that returns either the sum or product based on the value of y
+function task(x, y) {
+  let z;
+  z = y < 10 ? x + y : x * y; 
+  return z;
 }
+
 ```
-## EDUCATION
+## Work Experience
+
+- **2020–Present:** Head of Quality Assurance Department, BCG Production LLC  
+  *Engineering manufacturing company specializing in laser optical components*  
+
+- **2015–2020:** QA Engineer, BCG Production LLC  
+  - Oversaw quality control of optical components according to ISO 10110 industry standards.  
+
+- **2006–2015:** Sound Engineer, Public Radio of Armenia  
+  - Sound cleaning and equalization, technical and musical editing, analog-to-digital conversion.
+
+## Education 
 
 - **2020–2024:** PhD Student, Institute for Physical Research, NAS Armenia  
 - **2011–2013:** Master’s in Finance, International Scientific Educational Center, NAS Armenia  
 - **2004–2006:** Master’s in Physics of Semiconductors and Microelectronics, Yerevan State University  
 - **2000–2004:** Bachelor’s in Radiophysics and Electronics, Yerevan State University  
 
-## ADDITIONAL COURSES
+#### *Additional Courses*
 
 - **2024:** *QA Manual*, Business Development Group  
 - **2023:** *JavaScript, OOP, DOM, Canvas API, React, Redux*, Profit Development Company  
 - **2022:** *React JS*, Business Development Group  
 - **2018:** *HTML, CSS, JS, jQuery, PHP, OOP, MySQL*, Profit Development Company  
-### Udemy
--Modern JavaScript - from Zero to Junior Specialist
--[Modern JavaScript - from Zero to Junior Specialist](https://www.udemy.com/course/javascript-zero-to-junior-developer/)
+#### *Udemy*
+- [Modern JavaScript - from Zero to Junior Specialist](https://www.udemy.com/course/javascript-zero-to-junior-developer/)
+- [React - Complete Course on React, Redux and Redux Toolkit](https://www.udemy.com/course/react-ru/?couponCode=JUST4U02223)
+- [Linux - The Complete Linux Guide](https://www.udemy.com/course/linux-complete/?couponCode=ACCAGE0923)
+- [Docker - Complete Docker Course](https://www.udemy.com/course/docker-ru/?couponCode=JUST4U02223)
 
 
 ## English Language
