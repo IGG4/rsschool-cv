@@ -69,6 +69,11 @@ function task(x, y) {
 - **Competency Level**:  IELTS score of 6 (2019) – Competent User  
 - **Practical Experience**: Presented research in the field of physics as part of PhD studies, with the ability to understand and convey ideas within my area of expertise.
 
+## Projects
+
+- [social-React](https://github.com/Sooro1024/social/tree/Irina)
+
+
    
 
 
